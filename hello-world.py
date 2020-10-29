@@ -1,1 +1,1 @@
-sprint("Hello jenkins Learner!")
+print("Hello jenkins Learner!")
